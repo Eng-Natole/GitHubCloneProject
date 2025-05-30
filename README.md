@@ -1,6 +1,4 @@
-Sure! Here's a cleaned-up and clear version of the README for the **ALX GitHub Clone Project** that fits the challenge description and shows your understanding of Git concepts:
 
----
 
 # 🚀 GitHub Clone Project (ALX Challenge)
 
