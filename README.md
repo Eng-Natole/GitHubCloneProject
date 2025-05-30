@@ -55,6 +55,3 @@ This project simulates a basic workflow similar to GitHub collaboration. The goa
 * Get hands-on with **merging** workflows.
 * Learn how to **read and resolve conflicts** in code or documentation files.
 
----
-
-Let me know if you want a step-by-step guide or example commands for the Git part!
